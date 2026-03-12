@@ -10,7 +10,7 @@ public class Principal {
         veiculo1.setPlaca("ABC-1234");
 
         veiculo1.setGasolina(-10);      // bloqueia e avisa
-        veiculo1.adicionarGasolina(50); // ok
+        veiculo1.adicionarGasolina(50); 
         veiculo1.gastarGasolina(100);   // bloqueia e avisa
 
         System.out.println(
